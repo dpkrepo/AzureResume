@@ -1,4 +1,6 @@
 # Backend lives here
+
+Visitor counter javascript code will trigger a Azure Function-----> Function interact with CosmosDB where counter info is stored.
 ## Setting up Cosmos DB resources
 - create your cosmos DB account, database container, and data
 
