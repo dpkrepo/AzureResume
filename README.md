@@ -13,7 +13,12 @@ My Own Azure Resume, Following Cloud Resume Challenge
 
 
 # Before You start
-How to update your 
+### Know Git 
+| command | Description |
+| --------| ------------|
+| `git add -A` | Stages all your New, Modified, Deleted files changes in your working Directory |
+| `git commit -m <your message>` | This cmd creates a new commit with your message |
+| `git push` | This cmd push your code to GitHub | 
 
 
 
