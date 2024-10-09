@@ -24,8 +24,8 @@ My Own Azure Resume, Following Cloud Resume Challenge
 
 
 # 1. First Step
-Frontend Folder contain website
-main.js contain visitor counter code
+- Frontend Folder contain website
+- main.js contain visitor counter code
 
 # 2. Second Step
 
