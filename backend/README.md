@@ -1,4 +1,4 @@
-# Your backend lives here
+# Backend lives here
 - 1. Setting up Cosmos DB resources
 create your cosmos DB account, database container, and data
 
